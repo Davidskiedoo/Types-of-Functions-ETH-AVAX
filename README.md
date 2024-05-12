@@ -3,7 +3,7 @@ Overview
 This is a simple ERC20 token smart contract called `MyToken` implemented in Solidity. The contract allows for minting, burning, and transferring tokens. It inherits from the OpenZeppelin ERC20 contract.
 
 ## Requirements
-- Solidity compiler version ^0.8.25
+- Solidity compiler version 0.8.25
 - OpenZeppelin contracts library
 
 ## Usage
